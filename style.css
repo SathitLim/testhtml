@@ -1,0 +1,48 @@
+/* Selector {
+
+} */
+
+*{
+    text-align:  right;
+}
+
+body {
+    /* background-image: url(5f343jc3q4601da9g.jpg); */
+    background-color: rgb(34, 102, 102);
+    background-size: cover;
+}
+
+h2 ,p {
+    color: rgb(255, 170, 170);
+    text-align: center;
+    border: 5px solid rgb(255, 170, 170);
+    cursor: pointer;
+}
+
+h2 p {
+    color: rgb(214, 51, 51);
+    text-align: center;
+    border: 5px solid rgb(255, 170, 170);
+    cursor: pointer;
+}
+
+p {
+    color: rgb(255, 170, 170);
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.webtext {
+    border: dashed;
+}
+.webtext:hover {
+    border: solid;
+}
+
+
+#webtext{
+    background-color: rgb(255, 170, 170 , 0.5);
+}
